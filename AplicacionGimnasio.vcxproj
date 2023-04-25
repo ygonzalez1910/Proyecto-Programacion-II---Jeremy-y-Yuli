@@ -135,6 +135,7 @@
     <ClCompile Include="Fecha.cpp" />
     <ClCompile Include="Lista.cpp" />
     <ClCompile Include="Nadador.cpp" />
+    <ClCompile Include="Nodo.cpp" />
     <ClCompile Include="Triatlonista.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -145,6 +146,7 @@
     <ClInclude Include="Fecha.h" />
     <ClInclude Include="Lista.h" />
     <ClInclude Include="Nadador.h" />
+    <ClInclude Include="Nodo.h" />
     <ClInclude Include="Triatlonista.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
