@@ -17,6 +17,8 @@ private:
 	Nodo<T>* actual;
 };
 
+
+
 template <class T>
 Lista<T>::Lista() : primero(NULL), actual(NULL) {
 
